@@ -45,18 +45,6 @@ transition: all .1s;
 border-bottom: 2px solid #9fa6aa;
 }
 
-.button {
-border-radius: 5px;
-border-style: none;
-font-size: 18px;
-cursor: pointer;
-color: #cd8f93;
-transition: 1s ease;
-}
-
-.button:hover {
-background-color: #394b53
-}
 
 .principal {
 display:inline-block;
